@@ -1,5 +1,8 @@
 # find_route
-C++ implementation of BFS, DFS, IDT, and UCS for route finding between cities.
-to run the code for example
+C++ implementation of BFS, DFS, IDS, and UCS for route finding between cities.
+
+Open the terminal in the project directory and run the program using the following command format:
+./find_route algorithm input_filename origin_city destination_city
+example:
 ./find_route UCS input1.txt Munich Duesseldorf
-in the terminal write. /find_route the name of the algorithm you want to run input1.txt  origin_city  destination_city 
+Replace the algorithm name and city names with the values you want to use.
